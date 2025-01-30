@@ -1,0 +1,35 @@
+Game Design Document (GDD)
+1. Game Overview
+1.1 Game Title
+(What’s the name of your game?)
+1.2 Genre
+(What type of game is it? e.g., puzzle, platformer, RPG, etc.)
+1.3 Platform(s)
+(Where will your game be played? e.g., PC, console, mobile.)
+1.4 Target Audience
+(Who is your game for? Include age range, interests, and demographic information.)
+
+2. Core Concept
+2.1 Elevator Pitch
+(A one-sentence summary of your game. Make it concise and exciting.)
+2.2 Key Features
+(List the unique aspects or selling points of your game.)
+
+3. Gameplay
+3.1 Core Gameplay Loop
+(Describe the main cycle of player actions and rewards. e.g., "Explore → Collect → Upgrade → Repeat.")
+3.2 Objectives
+(What are the player’s goals in the game? e.g., "Save the princess," "Defeat the boss," etc.)
+3.3 Mechanics
+(Outline the main gameplay mechanics. e.g., movement, combat, puzzles, etc.)
+3.4 Challenges
+(What obstacles or challenges will players face?)
+3.5 Rewards
+(What motivates players to progress? e.g., loot, story progression, points.)
+
+5. Visuals
+5.1 Art Style
+(What is the visual style? e.g., pixel art, 3D realistic, minimalist.)
+5.2 Key Assets
+(List the main assets needed, such as characters, environments, or props.)
+
